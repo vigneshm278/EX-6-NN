@@ -1,6 +1,6 @@
 <H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
 <H3>NAME: Vignesh M</H3>
-<H3>REGISTER NO.: 21222324020</H3>
+<H3>REGISTER NO.: 212223240176</H3>
 <H3>EX. NO.6</H3>
 <H3>DATE:12-11-2025</H3>
 <H3>Aim:</H3>  To construct a  Multi-Layer Perceptron to predict heart attack using Python
